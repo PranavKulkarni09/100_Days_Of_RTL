@@ -3,8 +3,8 @@ Welcome to the 100 Days of RTL challenge! This challenge is designed to help str
 
 # The goal of this challenge is to:
 
--Build a strong foundation in RTL Design using Verilog/SystemVerilog.
--Explore various Digital Design concepts such as combinational and sequential logic, finite state machines (FSMs), and pipelining.
--Learn Synthesis, Simulation, and Logic.
--Practice Design Verification techniques using assertions and testbenches.
--Complete daily coding exercises, project implementations, and gradually tackle complex designs.
+- Build a strong foundation in RTL Design using Verilog/SystemVerilog.
+- Explore various Digital Design concepts such as combinational and sequential logic, finite state machines (FSMs), and pipelining.
+- Learn Synthesis, Simulation, and Logic.
+- Practice Design Verification techniques using assertions and testbenches.
+- Complete daily coding exercises, project implementations, and gradually tackle complex designs.
