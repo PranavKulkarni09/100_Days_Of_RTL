@@ -1,4 +1,4 @@
-module siso_shift(clk, rst, s_in, s_out);
+module siso_shift_reg(clk, rst, s_in, s_out);
   input logic clk, rst, s_in;
   output logic s_out;
   logic [3:0] siso_shift_reg;
